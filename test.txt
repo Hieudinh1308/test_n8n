@@ -1,3 +1,4 @@
-Tran Dinh Hieu , 23 year old.
-Le No Name , 20 year old.
-Ngo dinh diem, 19 year old.
+Name, Age,
+Tran Dinh Hieu , 23 year old,
+Le No Name , 20 year old,
+Ngo dinh diem, 19 year old,
