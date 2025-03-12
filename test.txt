@@ -1,3 +1,1 @@
-Name: Tran Dinh Hieu ,Age: 23 year old,
-Name: Le No Name ,Age: 20 year old,
-Name: Ngo dinh diem,Age: 19 year old,
+Name: Tran Dinh Hieu ,Age: 23 year old. Name: Le No Name ,Age: 20 year old. Name: Ngo dinh diem,Age: 19 year old,
